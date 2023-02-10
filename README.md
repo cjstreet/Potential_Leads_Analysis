@@ -1,9 +1,9 @@
 # Potential_Leads_Analysis
 
-# **Decision Trees and Random Forest Project: Predicting Potential Customers**
+## **Decision Trees and Random Forest Project: Predicting Potential Customers**
 
 
-Welcome to my project on classification using Decision Tree and Random Forest.
+
 
 --------------------------------
 ## **Context** 
@@ -57,7 +57,7 @@ The data contains the different attributes of leads and their interaction detail
 * **referral:** Flag indicating whether the lead had heard about ExtraaLearn through reference.
 * **status:** Flag indicating whether the lead was converted to a paid customer or not. The class 1 represents the paid customer and class 0 represents the unpaid customer.
 
-## **Importing the necessary libraries and overview of the dataset**
+### **Importing the necessary libraries and overview of the dataset**
 
 
 ```python
